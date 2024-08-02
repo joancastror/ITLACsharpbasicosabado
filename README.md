@@ -1,7 +1,6 @@
 el programa inroduce numeros de valor enteros para asi sumar y multiplicarlos 
 
-class Program
-{
+
     static void Main()
     {
         // Solicitar el primer número al usuario
@@ -29,12 +28,6 @@ class Program
         Console.ReadKey();
     }
 }
-
-
-
-
-
-
 
 
 
